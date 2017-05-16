@@ -1,2 +1,3 @@
 # tensorflow
-just try to make a test of tensorflow
+#just try to make a test of tensorflow
+# i just want to make a simple try to understand how it works, please relax....
